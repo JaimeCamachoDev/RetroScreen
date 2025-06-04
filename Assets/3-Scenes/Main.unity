@@ -264,6 +264,38 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 825553022332293136, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
+      propertyPath: m_VideoClip
+      value: 
+      objectReference: {fileID: 32900000, guid: dd71f2babb6b47046ba8178216f119f2, type: 3}
+    - target: {fileID: 825553022332293136, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
+      propertyPath: m_ControlledAudioTrackCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 825553022332293136, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
+      propertyPath: m_DirectAudioMutes.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 825553022332293136, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
+      propertyPath: m_DirectAudioVolumes.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 825553022332293136, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
+      propertyPath: m_EnabledAudioTracks.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 825553022332293136, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
+      propertyPath: m_TargetAudioSources.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 825553022332293136, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
+      propertyPath: 'm_DirectAudioVolumes.Array.data[0]'
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 825553022332293136, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
+      propertyPath: 'm_EnabledAudioTracks.Array.data[0]'
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2410516699339191284, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
       propertyPath: m_Name
       value: RetroScreen
@@ -282,23 +314,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7908059081500906256, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071079
+      value: 0.0000021904705
       objectReference: {fileID: 0}
     - target: {fileID: 7908059081500906256, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.7071057
+      value: -0.0000020340083
       objectReference: {fileID: 0}
     - target: {fileID: 7908059081500906256, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.7071056
       objectReference: {fileID: 0}
     - target: {fileID: 7908059081500906256, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: -0.707108
       objectReference: {fileID: 0}
     - target: {fileID: 7908059081500906256, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -90
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 7908059081500906256, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -306,7 +338,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7908059081500906256, guid: 8305fdf5b0bd52a43b25d0acfe8a1a04, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: -180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
