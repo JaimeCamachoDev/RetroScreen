@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
-# **{{ repo-name }}**
+# **RetroScreen**
 
-_**{{ repo-description }}**_
+_**Efecto de pantalla CRT con líneas de escaneo y distorsión. Recrea el estilo visual de televisores antiguos.**_
 
 
 </header>
