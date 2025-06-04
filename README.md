@@ -16,13 +16,7 @@ _**Efecto de pantalla CRT con líneas de escaneo y distorsión. Recrea el estilo
 ### 📸 Social Preview
 - [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
 
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
 
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
 - [ ] Confirmar que **Releases** sigue activado ✅
 
 ### 🎨 Personalización visual
