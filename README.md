@@ -6,7 +6,6 @@
 
 _**Efecto de pantalla CRT con líneas de escaneo y distorsión. Recrea el estilo visual de televisores antiguos.**_
 
-
 </header>
    
 <footer>
