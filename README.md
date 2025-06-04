@@ -10,17 +10,5 @@ _**Efecto de pantalla CRT con líneas de escaneo y distorsión. Recrea el estilo
    
 <footer>
    
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
 
 </footer>
