@@ -46,12 +46,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Lines: 50
+    - _Lines: 30
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Timer: 0.5
+    - _Timer: 3
     m_Colors:
-    - _Color: {r: 0.8705883, g: 1, b: 0.8470589, a: 1}
+    - _Color: {r: 0, g: 0.764151, b: 0.10488351, a: 1}
     - _NoiseSpeed: {r: 0, g: 0.1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
